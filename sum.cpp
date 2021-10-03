@@ -9,3 +9,6 @@ int main()
   cout<<sum<<endl;
   return 0;
 }
+
+//Added Some multiplication in the program.
+// Added Some Division in the program.
