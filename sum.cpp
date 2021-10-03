@@ -3,8 +3,8 @@ using namespace std;
 int main()
 {
   int a,b,sum;
-  a=10;
-  b=20;
+  a=50;
+  b=60;
   sum=a+b;
   cout<<sum<<endl;
   return 0;
